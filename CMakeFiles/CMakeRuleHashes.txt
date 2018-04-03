@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+e882009b167b560e0afb1ed5dbdb4be6 resources.inc.h
